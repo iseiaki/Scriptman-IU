@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mirian 
+- 👀 I’m interested in Programming languages, Python and javascript
+- 🌱 I’m currently learning git and source control
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 you can reach me  by this email address: gijigela6@gmail.com or facebook - https://www.facebook.com/profile.php?id=100040632330586
