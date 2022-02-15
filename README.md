@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programming languages, Python, javascript, PHP, Ajax, jQuery
 - 🌱 I’m currently learning PHP/AJAX
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 you can reach me  by this email address: gijigela6@gmail.com
+- 📫 you can reach me  by this email address: mirokurtanidze16@gmail.com
