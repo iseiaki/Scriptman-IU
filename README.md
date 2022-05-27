@@ -25,25 +25,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8N8KE4y18dx83gLr5jvbjuFJ4RNBR8tPxOAU-4mvtPQ1sVu9scJMRTeGF3Z-Gyaj7ow&usqp=CAU" width="60" height="60">
 </div>
 <br>
-<style>
-.flex-containers {
-height:200px;
-  display: flex;
-  flex-wrap: nowrap;
-  background-color: DodgerBlue;
-}
-
-.flex-containers > div {
-  background-color: #f1f1f1;
-  width: 50%;
-  margin: 10px;
-  text-align: center;
-  line-height: 75px;
-  font-size: 30px;
-}
-</style>
-<div class="flex-containers">
-<div>
 <b><h2>Websites/Sources I have used frequently during my journey in coding field</h2></b>
  - https://w3schools.com<br>
 - https://tutorialspoint.com<br>
@@ -52,7 +33,3 @@ height:200px;
 - https://stackoverflow.com<br>
 - https://freecodecamp.org<br>
 - https://youtube.com<br>
-</div>
-<div> <img src="https://66.media.tumblr.com/4bd8e6bdd5599a390cd7199a5f4d2cbd/977ca883a9c49235-a0/s1280x1920/da727bcc0d3d5590fd5c57be4a7fe59a977f4d32.gif" width="200">
-</div>
-</div>
