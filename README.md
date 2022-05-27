@@ -23,7 +23,7 @@
 <img src="https://pngset.com/images/vscode-icons-horizontal-label-text-alphabet-word-transparent-png-2658501.png" width="60" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="60" height="60">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8N8KE4y18dx83gLr5jvbjuFJ4RNBR8tPxOAU-4mvtPQ1sVu9scJMRTeGF3Z-Gyaj7ow&usqp=CAU" width="60" height="60">
-</div>
+</div><br>
 <h2>📫 Social networks</h2>
 Twitter - https://twitter.com/dailydoseofbc <br>
 Instagram - https://www.instagram.com/solidity.page/ <br>
