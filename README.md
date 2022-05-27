@@ -1,4 +1,4 @@
-<h2> I’m Mirian, I’m 👇</h2>
+<h2> Hi, I’m Mirian 👇</h2>
 - 👀 interested in high level Programming languages, Blockchain technology <br>
 - 🌱 currently learning Solidity/Python <br>
 - 🚀 Crypto enthusiastic looking for partnerships from web3 communities <br>
