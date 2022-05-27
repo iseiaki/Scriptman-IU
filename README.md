@@ -1,5 +1,5 @@
 <h2> Hi, I’m Mirian 👇</h2>
-- 👀 interested in high level Programming languages, Blockchain technology <br>
+- 👀 interested in high level Programming languages, as well as Blockchain technology <br>
 - 🌱 currently learning Solidity/Python <br>
 - 🚀 Crypto enthusiastic looking for partnerships from web3 communities <br>
 - 💞️ looking to collaborate on interesting projects, <b> feel free to dm me </b> <br>
@@ -24,3 +24,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="60" height="60">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8N8KE4y18dx83gLr5jvbjuFJ4RNBR8tPxOAU-4mvtPQ1sVu9scJMRTeGF3Z-Gyaj7ow&usqp=CAU" width="60" height="60">
 </div>
+<br>
+<b><h2>Websites/Sources I have used frequently during my journey in coding</h2></b>
+- https://w3schools.com<br>
+- https://tutorialspoint.com<br>
+- https://udemy.com<br>
+- https://geeksforgeeks.com<br>
+- https://stackoverflow.com<br>
+- https://freecodecamp.org<br>
+- https://youtube.com<br>
