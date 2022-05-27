@@ -28,8 +28,10 @@
 <b><h2>Websites/Sources I have used frequently during my journey in coding</h2></b>
 - https://w3schools.com<br>
 - https://tutorialspoint.com<br>
-<div> - https://udemy.com<br> ![tumblr_4bd8e6bdd5599a390cd7199a5f4d2cbd_da727bcc_1280](https://user-images.githubusercontent.com/68108917/170685094-fd4790d0-ef12-438e-b8b3-d4a956dced53.gif)
- </div>
+- https://udemy.com<br>
+ 
+  ![tumblr_4bd8e6bdd5599a390cd7199a5f4d2cbd_da727bcc_1280](https://user-images.githubusercontent.com/68108917/170685094-fd4790d0-ef12-438e-b8b3-d4a956dced53.gif)
+ 
 - https://geeksforgeeks.com<br>
 - https://stackoverflow.com<br>
 - https://freecodecamp.org<br>
