@@ -42,9 +42,9 @@ height:200px;
   font-size: 30px;
 }
 </style>
-<b><h2>Websites/Sources I have used frequently during my journey in coding field</h2></b>
 <div class="flex-containers">
-  <div>
+<div>
+<b><h2>Websites/Sources I have used frequently during my journey in coding field</h2></b>
  - https://w3schools.com<br>
 - https://tutorialspoint.com<br>
 - https://udemy.com<br>
