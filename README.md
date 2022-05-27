@@ -2,7 +2,7 @@
 <h2>  I’m 👇 </h2>
 - 👀 interested in high level Programming languages, Blockchain technology <br>
 - 🌱 currently learning Solidity/Python <br>
-- 🚀 Crypto enthusiastic looking for partnerships from web3 communities
+- 🚀 Crypto enthusiastic looking for partnerships from web3 communities <br>
 - 💞️ looking to collaborate on interesting projects, <b> feel free to dm me </b> <br>
 <h3>📫 you can reach me  by this email address: mirokurtanidze16@gmail.com </h3>
 
