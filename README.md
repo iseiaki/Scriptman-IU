@@ -3,11 +3,7 @@
 - 🌱 currently learning Solidity/Python <br>
 - 🚀 Crypto enthusiastic looking for partnerships from web3 communities <br>
 - 💞️ looking to collaborate on interesting projects, <b> feel free to dm me </b> <br>
-Twitter - https://twitter.com/dailydoseofbc <br>
-Instagram - https://www.instagram.com/solidity.page/ <br>
-Facebook - https://www.facebook.com/profile.php?id=100070536414684 <br>
-<h3>📫 you can reach out to me by this email address: mirokurtanidze16@gmail.com </h3>
-
+- 
 ![hi-hello](https://user-images.githubusercontent.com/68108917/170674086-56358049-3a22-4b5b-8ef1-aacae010fc6d.gif)
 
 <b><h2>Technologies I have an experience in</h2></b>
@@ -26,7 +22,11 @@ Facebook - https://www.facebook.com/profile.php?id=100070536414684 <br>
 <img src="https://pngset.com/images/vscode-icons-horizontal-label-text-alphabet-word-transparent-png-2658501.png" width="60" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="60" height="60">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8N8KE4y18dx83gLr5jvbjuFJ4RNBR8tPxOAU-4mvtPQ1sVu9scJMRTeGF3Z-Gyaj7ow&usqp=CAU" width="60" height="60">
-</div>
+</div><br>
+Twitter - https://twitter.com/dailydoseofbc <br>
+Instagram - https://www.instagram.com/solidity.page/ <br>
+Facebook - https://www.facebook.com/profile.php?id=100070536414684 <br>
+<h3>📫 you can reach out to me by this email address: mirokurtanidze16@gmail.com </h3>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
 - https://w3schools.com<br>
