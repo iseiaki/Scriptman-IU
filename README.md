@@ -8,6 +8,8 @@
 ![hi-hello](https://user-images.githubusercontent.com/68108917/170674086-56358049-3a22-4b5b-8ef1-aacae010fc6d.gif)
 
 <b><h2>Technologies I have an experience in</h2></b>
+<div class="flex-container">
 <img src="https://i.ibb.co/1mrkRnG/flat-750x-075-f-pad-750x1000-f8f8f8.jpg" width="48">
 <img src="https://i.ibb.co/1mrkRnG/flat-750x-075-f-pad-750x1000-f8f8f8.jpg" width="48">
 <img src="https://i.ibb.co/1mrkRnG/flat-750x-075-f-pad-750x1000-f8f8f8.jpg" width="48">
+</div>
