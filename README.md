@@ -30,8 +30,8 @@
 - https://tutorialspoint.com<br>
 - https://udemy.com<br>
  
-  ![tumblr_4bd8e6bdd5599a390cd7199a5f4d2cbd_da727bcc_1280](https://user-images.githubusercontent.com/68108917/170685094-fd4790d0-ef12-438e-b8b3-d4a956dced53.gif)
- 
+<img src="https://66.media.tumblr.com/4bd8e6bdd5599a390cd7199a5f4d2cbd/977ca883a9c49235-a0/s1280x1920/da727bcc0d3d5590fd5c57be4a7fe59a977f4d32.gif" width="60" height="60">
+
 - https://geeksforgeeks.com<br>
 - https://stackoverflow.com<br>
 - https://freecodecamp.org<br>
