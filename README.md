@@ -11,7 +11,7 @@
 <div class="flex-container">
 <img src="https://i.ibb.co/qD05LPK/Screenshot-1.png" width="60">
 <img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="60">
-<img src="https://i.ibb.co/zxHKT08/jquery-logo-vector-download.jpg" width="60">
+<img src="https://i.ibb.co/zxHKT08/jquery-logo-vector-download.jpg" width="60" height="200">
 <img src="https://i.ibb.co/MCff4yS/Unofficial-Java-Script-logo-2-svg.png" width="60">
 <img src="https://i.ibb.co/YtxqbwJ/php-plain-logo-icon-146397.png" width="60">
 <img src="https://i.ibb.co/QYfBVgd/png-transparent-logo-css-css3.png" width="60">
