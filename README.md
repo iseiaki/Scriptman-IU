@@ -15,6 +15,7 @@
 <img src="https://i.ibb.co/MCff4yS/Unofficial-Java-Script-logo-2-svg.png" width="60" height="60">
 <img src="https://i.ibb.co/2ZVXt03/Screenshot-3.png" width="60" height="60">
 <img src="https://i.ibb.co/QYfBVgd/png-transparent-logo-css-css3.png" width="60" height="60">
+<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="60" height="60">
 </div>
 <br>
 <b><h2>Code editors I use</h2></b>
