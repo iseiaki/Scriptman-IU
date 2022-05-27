@@ -16,3 +16,10 @@
 <img src="https://i.ibb.co/2ZVXt03/Screenshot-3.png" width="60" height="60">
 <img src="https://i.ibb.co/QYfBVgd/png-transparent-logo-css-css3.png" width="60" height="60">
 </div>
+<br>
+<b><h2>Code editors I use</h2></b>
+<div class="flex-container">
+<img src="https://pngset.com/images/vscode-icons-horizontal-label-text-alphabet-word-transparent-png-2658501.png" width="60" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="60" height="60">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8N8KE4y18dx83gLr5jvbjuFJ4RNBR8tPxOAU-4mvtPQ1sVu9scJMRTeGF3Z-Gyaj7ow&usqp=CAU" width="60" height="60">
+</div>
