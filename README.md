@@ -1,4 +1,4 @@
-<h2>- 👋 Hi, I’m Mirian </h2>
+<h2> 👋 I’m Mirian </h2>
 <h2>  I’m 👇 </h2>
 - 👀 interested in high level Programming languages, Blockchain technology <br>
 - 🌱 currently learning Solidity/Python <br>
