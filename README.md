@@ -15,6 +15,7 @@
 <img src="https://i.ibb.co/2ZVXt03/Screenshot-3.png" width="60" height="60">
 <img src="https://i.ibb.co/QYfBVgd/png-transparent-logo-css-css3.png" width="60" height="60">
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="60" height="60">
+<img src="https://www.klaasnienhuis.nl/wp/wp-content/uploads/2014/01/Git-Logo-2Color-770x321.jpg" width="60" height="60">
 </div>
 <br>
 <b><h2>Code editors I use</h2></b>
@@ -23,7 +24,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="60" height="60">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8N8KE4y18dx83gLr5jvbjuFJ4RNBR8tPxOAU-4mvtPQ1sVu9scJMRTeGF3Z-Gyaj7ow&usqp=CAU" width="60" height="60">
 </div>
-<h3>📫 Social networks</h3>
+<h2>📫 Social networks</h2>
 Twitter - https://twitter.com/dailydoseofbc <br>
 Instagram - https://www.instagram.com/solidity.page/ <br>
 Facebook - https://www.facebook.com/profile.php?id=100070536414684 <br>
