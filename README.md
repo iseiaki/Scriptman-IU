@@ -3,6 +3,9 @@
 - 🌱 currently learning Solidity/Python <br>
 - 🚀 Crypto enthusiastic looking for partnerships from web3 communities <br>
 - 💞️ looking to collaborate on interesting projects, <b> feel free to dm me </b> <br>
+Twitter - https://twitter.com/dailydoseofbc <br>
+Instagram - https://www.instagram.com/solidity.page/ <br>
+Facebook - https://www.facebook.com/profile.php?id=100070536414684 <br>
 <h3>📫 you can reach out to me by this email address: mirokurtanidze16@gmail.com </h3>
 
 ![hi-hello](https://user-images.githubusercontent.com/68108917/170674086-56358049-3a22-4b5b-8ef1-aacae010fc6d.gif)
