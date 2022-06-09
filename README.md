@@ -27,7 +27,6 @@
 <h2>📫 Social networks</h2>
 Twitter - https://twitter.com/dailydoseofbc <br>
 Instagram - https://www.instagram.com/solidity.page/ <br>
-Facebook - https://www.facebook.com/profile.php?id=100070536414684 <br>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
 - https://w3schools.com<br>
