@@ -39,7 +39,7 @@ Instagram - https://www.instagram.com/defined.null/ <br>
 <div>
 <h2>My certificates</h2>
 <li>FreeCodeCamp (JavaScript Algorithms and Data Structures)</li> <br>
-<img src="https://i.postimg.cc/sg2zDS92/Screenshot-3.png" width="200"> <br>
+<img src="https://i.postimg.cc/sg2zDS92/Screenshot-3.png" width="400"> <br>
 <img src="https://66.media.tumblr.com/4bd8e6bdd5599a390cd7199a5f4d2cbd/977ca883a9c49235-a0/s1280x1920/da727bcc0d3d5590fd5c57be4a7fe59a977f4d32.gif" width="200">
 <img src="https://i.ibb.co/F3zHg9h/Dangerous-Sociable-Galago-size-restricted.gif" width="270">
 </div>
