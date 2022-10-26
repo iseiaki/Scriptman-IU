@@ -16,6 +16,7 @@
 <img src="https://i.ibb.co/QYfBVgd/png-transparent-logo-css-css3.png" width="60" height="60">
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="60" height="60">
 <img src="https://www.klaasnienhuis.nl/wp/wp-content/uploads/2014/01/Git-Logo-2Color-770x321.jpg" width="60" height="60">
+<img src="https://camo.githubusercontent.com/c8bfe60ac8e0ba7e41112c96dee3c05376ef21bd2770f6b901c51431f8875ce2/68747470733a2f2f692e6962622e636f2f48725730504a672f52656163742e706e67" width="60" height="60">
 </div>
 <br>
 <b><h2>Code editors I use</h2></b>
