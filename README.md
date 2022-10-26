@@ -32,6 +32,7 @@
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
 <li>https://w3schools.com</li>
 <li>https://tutorialspoint.com</li>
+<li>https://coursera.org</li>
 <li>https://udemy.com</li>
 <li>https://geeksforgeeks.com</li>
 <li>https://stackoverflow.com</li>
