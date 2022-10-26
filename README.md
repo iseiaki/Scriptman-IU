@@ -29,13 +29,13 @@ Twitter - https://twitter.com/dailydoseofbc <br>
 Instagram - https://www.instagram.com/defined.null/ <br>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
-<li>https://w3schools.com</li><br>
-<li>https://tutorialspoint.com</li><br>
-<li>https://udemy.com</li><br>
-<li>https://geeksforgeeks.com</li><br>
-<li>https://stackoverflow.com</li><br>
-<li>https://freecodecamp.org</li><br>
-<li>https://youtube.com</li><br><br>
+<li>https://w3schools.com</li>
+<li>https://tutorialspoint.com</li>
+<li>https://udemy.com</li>
+<li>https://geeksforgeeks.com</li>
+<li>https://stackoverflow.com</li>
+<li>https://freecodecamp.org</li>
+<li>https://youtube.com</li><br>
 <div>
 <h2>My certificates</h2>
 <li>FreeCodeCamp (JavaScript Algorithms and Data Structures)</li> <li>FreeCodeCamp (Responsive Web Design)</li> <br>
