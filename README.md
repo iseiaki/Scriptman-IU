@@ -51,12 +51,12 @@
   <li>Portfolio website</li>
 <p>I always liked neumorphic designs on website, so decided to make something different and came up with using it on my personal portfolio website. I'm satisfied with results.<br>
   <li>Fantasy</li>
-<p>Python script named fantasy, created out of boredom. This script is turned into .exe using py-to-exe dependency and it basically annoyes user by popping up a small text alert box that eventually opens the song Never Gonna Give You Up by Rick Astley<br>
+<p>Python script named fantasy, created out of boredom. This script is turned into .exe using py-to-exe dependency and it basically annoys user by popping up a small text box that eventually opens the song Never Gonna Give You Up by Rick Astley<br>
   <li>Phpecommerce</li>
- <p>PHP ecommerce website with adminal panel and functional DB. Built for experience with HTML, CSS, jQuery, PHP, MySQL</p>
+ <p>PHP ecommerce website with admin panel and functional DB. Built for experience with HTML, CSS, jQuery, PHP, MySQL</p>
    <li>Splayer</li>
- <p>Python script that would start playing music once you opened a code editor, this used to be an amazing program to me however now it needs some fixing because parametres that are being passed to the executable aren't exactly the right ones, so for now it doesn't work</p>
+ <p>Python script that would start playing music once you opened a code editor, this used to be an amazing program to me, however now it needs some fixing because parametres that are being passed to the executable aren't exactly the right ones, so for now it doesn't work</p>
    <li>Python-trojan-service-workers</li>
-<p>This script is one of the biggest and best things I've ever made. It's written in Python and basically once the script goes live on a machine it takes a screenshot withing your set of intervals in time and sends it to desired email address along with an IP, MAC addresses of the machine. It's also totally undedetected by any antiviruses and windows defender.</p><br><br>
+<p>This script is one of the biggest and best things I've ever built. It's written in Python and basically once the script goes live on a machine it takes a screenshot within your set of intervals in time and sends it to desired email address along with an IP and MAC address of the machine. It's also totally undedetected by any antivirus and windows defender.</p><br><br>
 <img src="https://i.ibb.co/F3zHg9h/Dangerous-Sociable-Galago-size-restricted.gif" width="500">
 </div>
