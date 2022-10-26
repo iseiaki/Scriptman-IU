@@ -1,8 +1,8 @@
 <h2> Hi, I’m Mirian 👇</h2>
-- 👀 interested in high level Programming languages, as well as Blockchain technology <br>
-- 🌱 currently learning Python <br>
-- 🚀 Crypto enthusiastic looking for partnerships with web3 communities <br>
-- 💞️ looking to collaborate on interesting projects, <b> feel free to dm me </b> <br><br>
+<li>👀 interested in high level Programming languages, as well as Blockchain technology</li>
+<li>🌱 currently learning Python </li>
+<li>🚀 Crypto enthusiastic looking for partnerships with web3 communities</li>
+<li>💞️ looking to collaborate on interesting projects, <b> feel free to dm me </b></li> <br>
 
 ![hi-hello](https://media.tenor.com/c4cx59tZFTkAAAAC/baymax-hello.gif)
 
