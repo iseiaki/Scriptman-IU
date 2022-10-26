@@ -4,7 +4,7 @@
 - 🚀 Crypto enthusiastic looking for partnerships with web3 communities <br>
 - 💞️ looking to collaborate on interesting projects, <b> feel free to dm me </b> <br><br>
 
-![hi-hello](https://user-images.githubusercontent.com/68108917/170674086-56358049-3a22-4b5b-8ef1-aacae010fc6d.gif)
+![hi-hello](https://media.tenor.com/c4cx59tZFTkAAAAC/baymax-hello.gif)
 
 <b><h2>Technologies I have an experience in</h2></b>
 <div class="flex-container">
@@ -29,13 +29,13 @@ Twitter - https://twitter.com/dailydoseofbc <br>
 Instagram - https://www.instagram.com/defined.null/ <br>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
-- https://w3schools.com<br>
-- https://tutorialspoint.com<br>
-- https://udemy.com<br>
-- https://geeksforgeeks.com<br>
-- https://stackoverflow.com<br>
-- https://freecodecamp.org<br>
-- https://youtube.com<br><br>
+<li>https://w3schools.com</li><br>
+<li>https://tutorialspoint.com</li><br>
+<li>https://udemy.com</li><br>
+<li>https://geeksforgeeks.com</li><br>
+<li>https://stackoverflow.com</li><br>
+<li>https://freecodecamp.org</li><br>
+<li>https://youtube.com</li><br><br>
 <div>
 <h2>My certificates</h2>
 <li>FreeCodeCamp (JavaScript Algorithms and Data Structures)</li> <li>FreeCodeCamp (Responsive Web Design)</li> <br>
