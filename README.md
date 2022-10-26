@@ -26,8 +26,8 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8N8KE4y18dx83gLr5jvbjuFJ4RNBR8tPxOAU-4mvtPQ1sVu9scJMRTeGF3Z-Gyaj7ow&usqp=CAU" width="60" height="60">
 </div><br>
 <h2>📫 Social networks</h2>
-Twitter - https://twitter.com/dailydoseofbc <br>
-Instagram - https://www.instagram.com/defined.null/ <br>
+<li>Twitter - https://twitter.com/dailydoseofbc</li>
+<li>Instagram - https://www.instagram.com/defined.null/</li>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
 <li>https://w3schools.com</li>
