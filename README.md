@@ -40,7 +40,7 @@ Instagram - https://www.instagram.com/defined.null/ <br>
 <h2>My certificates</h2>
 <li>FreeCodeCamp (JavaScript Algorithms and Data Structures)</li> <li>FreeCodeCamp (Responsive Web Design)</li> <br>
 <a href="https://www.freecodecamp.org/certification/Mirian/javascript-algorithms-and-data-structures"><img src="https://i.postimg.cc/x1W9x8MT/Screenshot-1.png" width="400"></a>
-<a href="https://www.freecodecamp.org/certification/Mirian/responsive-web-design"><img src="https://i.postimg.cc/pdcVfCC4/Screenshot-4.png" width="400"></a>
+<a href="https://www.freecodecamp.org/certification/Mirian/responsive-web-design"><img src="https://i.postimg.cc/pdcVfCC4/Screenshot-4.png" width="400"></a><br>
 <img src="https://66.media.tumblr.com/4bd8e6bdd5599a390cd7199a5f4d2cbd/977ca883a9c49235-a0/s1280x1920/da727bcc0d3d5590fd5c57be4a7fe59a977f4d32.gif" width="200">
 <img src="https://i.ibb.co/F3zHg9h/Dangerous-Sociable-Galago-size-restricted.gif" width="270">
 </div>
